@@ -1,0 +1,65 @@
+{
+  "posters": [
+    {
+      "id": "example-poster",
+      "panels": [
+        {
+          "category": "Title",
+          "text_len": 2,
+          "text_ratio": 5,
+          "figure_count": 0,
+          "figure_ratio": 0
+        },
+        {
+          "category": "Introduction",
+          "text_len": 3,
+          "text_ratio": 5,
+          "figure_count": 1,
+          "figure_ratio": 2
+        },
+        {
+          "category": "Introduction",
+          "text_len": 3,
+          "text_ratio": 5,
+          "figure_count": 1,
+          "figure_ratio": 2
+        },
+        {
+          "category": "Method",
+          "text_len": 4,
+          "text_ratio": 5,
+          "figure_count": 2,
+          "figure_ratio": 2
+        },
+        {
+          "category": "Method",
+          "text_len": 10,
+          "text_ratio": 10,
+          "figure_count": 1,
+          "figure_ratio": 2
+        },
+        {
+          "category": "Method",
+          "text_len": 10,
+          "text_ratio": 10,
+          "figure_count": 1,
+          "figure_ratio": 2
+        },
+        {
+          "category": "Result",
+          "text_len": 5,
+          "text_ratio": 0,
+          "figure_count": 0,
+          "figure_ratio": 0
+        },
+        {
+          "category": "Result",
+          "text_len": 5,
+          "text_ratio": 0,
+          "figure_count": 0,
+          "figure_ratio": 0
+        }
+      ]
+    }
+  ]
+}

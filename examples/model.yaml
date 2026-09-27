@@ -1,0 +1,10 @@
+# Standalone configuration for a model trained with backbone d_model=256,
+# dim_feedforward=2048, num_layers=4. These dimensions are AFTER 21/32 scaling.
+# Prefer the actual config.yaml saved beside your checkpoint.
+d_model: 168
+nhead: 8
+dim_feedforward: 1344
+num_layers: 4
+dropout: 0.1
+activation: relu
+multi_decoder: false

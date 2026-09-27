@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sciposter-inference"
+version = "0.3.0"
+description = "Standalone inference for Sci-PosterLayout BART checkpoints"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["torch>=2.0", "numpy>=1.23", "PyYAML>=6.0", "Pillow>=9.2"]
+
+[project.scripts]
+sciposter-infer = "sciposter_inference.cli:main"
+sciposter-render = "sciposter_inference.render:main"
+
+[tool.setuptools.packages.find]
+include = ["sciposter_inference*"]
