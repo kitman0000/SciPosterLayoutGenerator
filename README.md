@@ -2,7 +2,7 @@
 
 Model Release of the Paper: Scientific poster generation: A new dataset and approach
 
-[](./outputs/render-check/cli/poster_00000.png)
+![](https://github.com/kitman0000/SciPosterLayoutGenerator/blob/master/examples/png/poster_00000.png?raw=true)
 
 ## Install and run
 
