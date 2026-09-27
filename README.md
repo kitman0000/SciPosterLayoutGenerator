@@ -1,6 +1,4 @@
-# Standalone Sci-PosterLayout inference
-
-Model Release of the Paper: Scientific poster generation: A new dataset and approach
+# Scientific poster generation: A new dataset and approach
 
 ![](https://github.com/kitman0000/SciPosterLayoutGenerator/blob/master/examples/png/poster_00000.png?raw=true)
 
