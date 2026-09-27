@@ -1,5 +1,7 @@
 # Standalone Sci-PosterLayout inference
 
+Model Release of the Paper: Scientific poster generation: A new dataset and approach
+
 [](./outputs/render-check/cli/poster_00000.png)
 
 ## Install and run
